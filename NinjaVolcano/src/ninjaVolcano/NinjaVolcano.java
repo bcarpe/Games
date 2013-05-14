@@ -31,6 +31,7 @@ public class NinjaVolcano extends JFrame implements KeyListener {
 	public static LinkedList<ObjectNV> objects;
 	public static LinkedList<PlatformNV> platforms;
 	public static LinkedList<WallNV> walls;
+	public static LinkedList<WallNV> walls1;
 	
 	public static void main(String[] args) {
 		//1. Create the frame.
